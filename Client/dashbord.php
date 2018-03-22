@@ -1,0 +1,1 @@
+//ici sera la vue apres reservation d'un taxi sur la page index concernant un client non connecté
